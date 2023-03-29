@@ -2,7 +2,7 @@
 
 Submitted by: **TaeVon Lewis**
 
-**BeReal Clone Pt. 2** is an app that introduces ... [TODO] 
+**BeReal Clone Pt. 2** is the second part of the BeReal clone project where persistence is added along with being able to use the camera to take a photo and not being able to view others photos until your own is uploaded.
 
 Time spent: **1** hours spent in total
 
@@ -24,7 +24,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src=https://user-images.githubusercontent.com/65370736/228629711-19ad5b99-6e0e-4b1a-8c3b-700b83c16feb.gif title="Video Walkthrough" alt="Video Walkthrough" />
 
 ## License
 
